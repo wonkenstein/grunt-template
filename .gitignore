@@ -1,0 +1,5 @@
+node_modules/*
+laravel/public/*
+release/archive/*
+release/public/*
+release/*.zip
